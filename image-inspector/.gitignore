@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+
+metadata.txt
+hidden.txt
+
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db

@@ -1,0 +1,5 @@
+Latitude: 32.0866296534937
+Longitude: 34.885130555555556
+Google Maps: https://maps.google.com/?q=32.0866296534937,34.885130555555556
+ResolutionUnit: 0
+YCbCrPositioning: 0
