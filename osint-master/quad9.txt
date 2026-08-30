@@ -1,0 +1,31 @@
+IP Address: 9.9.9.9
+==================================================
+
+[INFO] Fetching geolocation and ISP data...
+
+📍 GEOGRAPHIC INFORMATION:
+  - Country: United States (US)
+  - Region/State: California
+  - City: Berkeley
+  - Postal Code: 94709
+  - Timezone: America/Los_Angeles
+  - Coordinates: 37.8806, -122.2680
+
+🌐 NETWORK INFORMATION:
+  - ISP: Quad9
+  - ASN: AS19281 Quad9
+
+🔍 ADDITIONAL INFORMATION:
+  - Google Maps: https://www.google.com/maps?q=37.8806,-122.2680
+  - IP Info: https://ipinfo.io/9.9.9.9
+  - VirusTotal: https://www.virustotal.com/gui/ip-address/9.9.9.9
+
+⚠️  ABUSE REPORT STATUS:
+  - API key required for abuse database (get free key from abuseipdb.com)
+
+==================================================
+OSINT TIPS:
+  - Check if this IP appears in data breach logs
+  - Use Shodan to find open ports/services (shodan.io)
+  - Check reverse DNS for domain associations
+  - Search IP in threat intelligence feeds

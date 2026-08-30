@@ -1,0 +1,92 @@
+Full Name: Mustapha Lbahja
+Generated 135 username variations
+============================================================
+
+Testing 30 most likely username variations on social platforms...
+------------------------------------------------------------
+
+
+[VALID] lbahja.- - Found on: Pinterest
+
+[VALID] lbahja_ - Found on: Instagram, Reddit, Pinterest
+
+[VALID] lbahja. - Found on: Instagram, Reddit, Pinterest
+
+[VALID] mlbahja.1 - Found on: Instagram, Reddit, Pinterest
+
+[VALID] real_mustapha - Found on: Instagram, Reddit, Pinterest
+
+[VALID] mlbahja - Found on: GitHub, Instagram, Reddit, Pinterest
+
+[VALID] ml1 - Found on: GitHub, Instagram, Reddit, GitLab, Pinterest
+
+[VALID] mustaphalbahja_1 - Found on: Instagram, Reddit, Pinterest
+
+[VALID] mustaphalbahja_12 - Found on: Instagram, Reddit, Pinterest
+
+[VALID] mustaphalbahja.2024 - Found on: Instagram, Reddit, Pinterest
+
+[VALID] mustaphalbahja_- - Found on: Instagram, Reddit, Pinterest
+
+[VALID] mlbahja2024 - Found on: Instagram, Reddit, Medium, Pinterest
+
+[VALID] itslbahja - Found on: Instagram, Reddit, Pinterest
+
+[VALID] mustapha - Found on: GitHub, Instagram, Reddit, GitLab, Pinterest
+
+[VALID] mustapha_lbahja - Found on: Instagram, Reddit, Pinterest
+
+[VALID] mustapha__ - Found on: Instagram, Reddit, Pinterest
+
+[VALID] lbahja_12 - Found on: Instagram, Reddit, Pinterest
+
+[VALID] lbahja.123 - Found on: Instagram, Reddit, Medium, Pinterest
+
+[VALID] mlbahja__ - Found on: Instagram, Reddit, Medium, Pinterest
+
+[VALID] mustaphalbahja - Found on: Instagram, Reddit, Medium, Pinterest
+
+[VALID] lbahjamustapha - Found on: Instagram, Reddit, Medium, Pinterest
+
+[VALID] lbahja.1 - Found on: Instagram, Reddit, Medium, Pinterest
+
+[VALID] its.mustapha - Found on: Instagram, Reddit, Medium, Pinterest
+
+[VALID] mustapha.lbahja - Found on: Instagram, Reddit, Medium, Pinterest
+
+[VALID] m-lbahja - Found on: Instagram, Reddit, Medium, Pinterest
+
+[VALID] mustaphalbahja._ - Found on: Instagram, Reddit, Medium, Pinterest
+
+[VALID] im.mustapha - Found on: Instagram, Reddit, Medium, Pinterest
+
+[VALID] its_mustapha - Found on: Instagram, Reddit, Medium, Pinterest
+
+[VALID] mustapha2024 - Found on: GitHub, Instagram, Reddit, Medium, Pinterest
+
+[VALID] lbahja_. - Found on: Instagram, Reddit, Medium, Pinterest
+
+============================================================
+
+SUMMARY:
+  - Total username variations generated: 135
+  - Usernames tested: 30
+  - Valid usernames found: 30
+
+VALID USERNAMES TO INVESTIGATE:
+  1. lbahja.-
+  2. lbahja_
+  3. lbahja.
+  4. mlbahja.1
+  5. real_mustapha
+  6. mlbahja
+  7. ml1
+  8. mustaphalbahja_1
+  9. mustaphalbahja_12
+  10. mustaphalbahja.2024
+
+============================================================
+OSINT TIPS:
+  - Use -u "username" to check a specific username in detail
+  - The most valuable usernames are those found on multiple platforms
+  - Check email patterns: username@gmail.com, username@outlook.com

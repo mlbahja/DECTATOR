@@ -1,0 +1,32 @@
+IP Address: 8.8.8.8
+==================================================
+
+[INFO] Fetching geolocation and ISP data...
+
+📍 GEOGRAPHIC INFORMATION:
+  - Country: United States (US)
+  - Region/State: Virginia
+  - City: Ashburn
+  - Postal Code: 20149
+  - Timezone: America/New_York
+  - Coordinates: 39.0300, -77.5000
+
+🌐 NETWORK INFORMATION:
+  - ISP: Google LLC
+  - Organization: Google Public DNS
+  - ASN: AS15169 Google LLC
+
+🔍 ADDITIONAL INFORMATION:
+  - Google Maps: https://www.google.com/maps?q=39.0300,-77.5000
+  - IP Info: https://ipinfo.io/8.8.8.8
+  - VirusTotal: https://www.virustotal.com/gui/ip-address/8.8.8.8
+
+⚠️  ABUSE REPORT STATUS:
+  - No reported abuse in last 90 days
+
+==================================================
+OSINT TIPS:
+  - Check if this IP appears in data breach logs
+  - Use Shodan to find open ports/services (shodan.io)
+  - Check reverse DNS for domain associations
+  - Search IP in threat intelligence feeds

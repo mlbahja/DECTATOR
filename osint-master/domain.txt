@@ -1,0 +1,175 @@
+Main Domain: github.com
+======================================================================
+
+[INFO] Enumerating subdomains...
+[INFO] This may take a few moments
+
+🔍 CHECKING SUBDOMAINS:
+----------------------------------------------------------------------
+
+✓ www.github.com
+    IP Addresses: 140.82.121.3
+    CNAME Record: github.com
+    SSL: Valid SSL certificate (basic check)
+    ⚠️  Risk: MEDIUM - CNAME points to external service: github.com
+
+✓ smtp.github.com
+    IP Addresses: 140.82.113.32, 140.82.114.32, 140.82.113.31, 140.82.112.31, 140.82.114.31, 140.82.112.32
+    CNAME Record: smtp.github.com
+    SSL: No SSL certificate
+    ⚠️  Risk: MEDIUM - CNAME points to external service: smtp.github.com
+
+✓ ns1.github.com
+    IP Addresses: 192.0.2.1
+    CNAME Record: ns1.github.com
+    SSL: No SSL certificate
+    ⚠️  Risk: MEDIUM - CNAME points to external service: ns1.github.com
+
+✓ ns2.github.com
+    IP Addresses: 192.0.2.2
+    CNAME Record: ns2.github.com
+    SSL: No SSL certificate
+    ⚠️  Risk: MEDIUM - CNAME points to external service: ns2.github.com
+
+✓ autodiscover.github.com
+    IP Addresses: 52.98.159.24, 52.98.163.56, 52.98.200.248, 52.98.200.200, 2603:1026:c0a:850::8, 2603:1026:c0a:8f3::8, 2603:1026:c0a:8f6::8, 2603:1026:c0a:8f7::8, 2603:1026:c0a:901::8, 2603:1026:c0a:90a::8, 2603:1026:c0a:1858::8, 2603:1026:c0a:1883::8
+    CNAME Record: autodiscover.outlook.com
+    SSL: No SSL certificate
+    ⚠️  Risk: MEDIUM - CNAME points to external service: autodiscover.outlook.com
+
+✓ test.github.com
+    IP Addresses: 192.0.2.1
+    CNAME Record: test.github.com
+    SSL: No SSL certificate
+    ⚠️  Risk: MEDIUM - CNAME points to external service: test.github.com
+
+✓ blog.github.com
+    IP Addresses: 185.199.109.153, 185.199.110.153, 185.199.111.153, 185.199.108.153, 2606:50c0:8000::153, 2606:50c0:8001::153, 2606:50c0:8002::153, 2606:50c0:8003::153
+    CNAME Record: github.github.io
+    SSL: Valid SSL certificate (basic check)
+    ⚠️  Risk: HIGH - CNAME points to GitHub Pages - potential takeover if repository doesn't exist
+
+✓ admin.github.com
+    IP Addresses: 140.82.113.24
+    CNAME Record: glb-2a3c35-public-internal.githubapp.com
+    SSL: Valid SSL certificate (basic check)
+    ⚠️  Risk: MEDIUM - CNAME points to external service: glb-2a3c35-public-internal.githubapp.com
+
+✓ support.github.com
+    IP Addresses: 185.199.108.133, 185.199.110.133, 185.199.109.133, 185.199.111.133
+    CNAME Record: support.github.com
+    SSL: Valid SSL certificate (basic check)
+    ⚠️  Risk: MEDIUM - CNAME points to external service: support.github.com
+
+✓ docs.github.com
+    IP Addresses: 185.199.110.154, 185.199.111.154, 185.199.108.154, 185.199.109.154, 2606:50c0:8000::154, 2606:50c0:8001::154, 2606:50c0:8002::154, 2606:50c0:8003::154
+    CNAME Record: docs.github.com
+    SSL: Valid SSL certificate (basic check)
+    ⚠️  Risk: MEDIUM - CNAME points to external service: docs.github.com
+
+✓ shop.github.com
+    IP Addresses: 140.82.121.4
+    CNAME Record: github.com
+    SSL: Valid SSL certificate (basic check)
+    ⚠️  Risk: MEDIUM - CNAME points to external service: github.com
+
+✓ wiki.github.com
+    IP Addresses: 140.82.112.17
+    CNAME Record: raw-origin.github.com
+    SSL: Valid SSL certificate (basic check)
+    ⚠️  Risk: MEDIUM - CNAME points to external service: raw-origin.github.com
+
+[PROGRESS] Checked 50/123 subdomains...
+
+✓ info.github.com
+    IP Addresses: 104.16.96.80, 104.16.94.80, 104.16.92.80, 104.16.93.80, 104.16.95.80
+    CNAME Record: 157-gqe-382.mktoweb.com
+    SSL: Valid SSL certificate (basic check)
+    ⚠️  Risk: MEDIUM - CNAME points to external service: 157-gqe-382.mktoweb.com
+
+✓ api.github.com
+    IP Addresses: 140.82.121.6
+    CNAME Record: api.github.com
+    SSL: Valid SSL certificate (basic check)
+    ⚠️  Risk: MEDIUM - CNAME points to external service: api.github.com
+
+✓ help.github.com
+    IP Addresses: 140.82.113.18
+    CNAME Record: redirect.github.com
+    SSL: Valid SSL certificate (basic check)
+    ⚠️  Risk: MEDIUM - CNAME points to external service: redirect.github.com
+
+✓ test.github.com
+    IP Addresses: 192.0.2.1
+    CNAME Record: test.github.com
+    SSL: No SSL certificate
+    ⚠️  Risk: MEDIUM - CNAME points to external service: test.github.com
+
+✓ storage.github.com
+    IP Addresses: 140.82.121.4
+    CNAME Record: github.com
+    SSL: Valid SSL certificate (basic check)
+    ⚠️  Risk: MEDIUM - CNAME points to external service: github.com
+
+[PROGRESS] Checked 100/123 subdomains...
+
+✓ status.github.com
+    IP Addresses: 140.82.113.18
+    CNAME Record: redirect.github.com
+    SSL: Valid SSL certificate (basic check)
+    ⚠️  Risk: MEDIUM - CNAME points to external service: redirect.github.com
+
+✓ jobs.github.com
+    IP Addresses: 0.0.0.0
+    CNAME Record: jobs.github.com
+    SSL: No SSL certificate
+    ⚠️  Risk: MEDIUM - CNAME points to external service: jobs.github.com
+
+======================================================================
+📊 ENUMERATION SUMMARY:
+----------------------------------------------------------------------
+  Total subdomains checked: 123
+  Active subdomains found: 19
+
+🎯 HIGH RISK SUBDOMAINS (Check for takeover):
+  - blog.github.com
+    ➜ CNAME points to GitHub Pages - potential takeover if repository doesn't exist
+
+📋 ALL ACTIVE SUBDOMAINS:
+  1. 🟡 www.github.com
+  2. 🟡 smtp.github.com
+  3. 🟡 ns1.github.com
+  4. 🟡 ns2.github.com
+  5. 🟡 autodiscover.github.com
+  6. 🟡 test.github.com
+  7. 🔴 blog.github.com
+  8. 🟡 admin.github.com
+  9. 🟡 support.github.com
+  10. 🟡 docs.github.com
+  11. 🟡 shop.github.com
+  12. 🟡 wiki.github.com
+  13. 🟡 info.github.com
+  14. 🟡 api.github.com
+  15. 🟡 help.github.com
+  16. 🟡 test.github.com
+  17. 🟡 storage.github.com
+  18. 🟡 status.github.com
+  19. 🟡 jobs.github.com
+
+======================================================================
+🔍 OSINT & RECOMMENDATIONS:
+----------------------------------------------------------------------
+  1. For HIGH risk subdomains, verify if the external service still exists
+  2. Remove DNS records pointing to services you no longer use
+  3. Use tools like 'dig', 'nslookup' for deeper investigation
+  4. Check Certificate Transparency logs (crt.sh) for more subdomains
+  5. Consider using Sublist3r, Amass, or Subfinder for comprehensive scans
+
+📚 USEFUL RESOURCES:
+  - SecurityTrails: https://securitytrails.com/domain/github.com
+  - crt.sh: https://crt.sh/?q=%.github.com
+  - DNSDumpster: https://dnsdumpster.com/domain/github.com
+
+⚠️  LEGAL NOTE:
+  Only scan domains you own or have explicit permission to test.
+  Unauthorized scanning may violate laws and terms of service.

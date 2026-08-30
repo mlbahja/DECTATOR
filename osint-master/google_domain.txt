@@ -1,0 +1,286 @@
+Main Domain: google.com
+======================================================================
+
+[INFO] Enumerating subdomains...
+[INFO] This may take a few moments
+
+🔍 CHECKING SUBDOMAINS:
+----------------------------------------------------------------------
+
+✓ www.google.com
+    IP Addresses: 142.251.151.119, 142.251.150.119, 142.251.154.119, 142.251.157.119, 142.251.155.119, 142.251.153.119, 142.251.152.119, 142.251.156.119, 2001:4860:4829:7700::, 2001:4860:482c:7700::, 2001:4860:482a:7700::, 2001:4860:4826:7700::, 2001:4860:482b:7700::, 2001:4860:4827:7700::, 2001:4860:482d:7700::, 2001:4860:4828:7700::
+    CNAME Record: www.google.com
+    SSL: Valid SSL certificate (basic check)
+    ⚠️  Risk: MEDIUM - CNAME points to external service: www.google.com
+
+✓ mail.google.com
+    IP Addresses: 142.251.208.229, 2a00:1450:4003:817::2005
+    CNAME Record: mail.google.com
+    SSL: Valid SSL certificate (basic check)
+    ⚠️  Risk: MEDIUM - CNAME points to external service: mail.google.com
+
+✓ smtp.google.com
+    IP Addresses: 173.194.76.27, 74.125.133.26, 74.125.133.27, 108.177.15.27, 108.177.15.26, 2a00:1450:4009:c19::1b, 2a00:1450:4009:c19::1a, 2a00:1450:4009:c0f::1a, 2a00:1450:4009:c0f::1b
+    CNAME Record: smtp.google.com
+    SSL: No SSL certificate
+    ⚠️  Risk: MEDIUM - CNAME points to external service: smtp.google.com
+
+✓ ns1.google.com
+    IP Addresses: 216.239.32.10, 2001:4860:4802:32::a
+    CNAME Record: ns1.google.com
+    SSL: No SSL certificate
+    ⚠️  Risk: MEDIUM - CNAME points to external service: ns1.google.com
+
+✓ ns2.google.com
+    IP Addresses: 216.239.34.10, 2001:4860:4802:34::a
+    CNAME Record: ns2.google.com
+    SSL: No SSL certificate
+    ⚠️  Risk: MEDIUM - CNAME points to external service: ns2.google.com
+
+✓ m.google.com
+    IP Addresses: 216.58.204.171, 2a00:1450:4006:81c::200b
+    CNAME Record: mobile.l.google.com
+    SSL: Valid SSL certificate (basic check)
+    ⚠️  Risk: MEDIUM - CNAME points to external service: mobile.l.google.com
+
+✓ ns.google.com
+    IP Addresses: 216.239.32.10
+    CNAME Record: ns.google.com
+    SSL: No SSL certificate
+    ⚠️  Risk: MEDIUM - CNAME points to external service: ns.google.com
+
+✓ blog.google.com
+    IP Addresses: 216.58.205.41, 2a00:1450:4006:81f::2009
+    CNAME Record: www.blogger.com
+    SSL: Valid SSL certificate (basic check)
+    ⚠️  Risk: MEDIUM - CNAME points to external service: www.blogger.com
+
+✓ admin.google.com
+    IP Addresses: 142.251.36.142, 2a00:1450:4006:816::200e
+    CNAME Record: admin.google.com
+    SSL: Valid SSL certificate (basic check)
+    ⚠️  Risk: MEDIUM - CNAME points to external service: admin.google.com
+
+✓ news.google.com
+    IP Addresses: 216.58.205.78, 2a00:1450:4003:80b::200e
+    CNAME Record: news.google.com
+    SSL: Valid SSL certificate (basic check)
+    ⚠️  Risk: MEDIUM - CNAME points to external service: news.google.com
+
+✓ vpn.google.com
+    IP Addresses: 64.9.224.70, 64.9.224.69, 64.9.224.68
+    CNAME Record: vpn.google.com
+    SSL: No SSL certificate
+    ⚠️  Risk: MEDIUM - CNAME points to external service: vpn.google.com
+
+✓ ns3.google.com
+    IP Addresses: 216.239.36.10, 2001:4860:4802:36::a
+    CNAME Record: ns3.google.com
+    SSL: No SSL certificate
+    ⚠️  Risk: MEDIUM - CNAME points to external service: ns3.google.com
+
+✓ support.google.com
+    IP Addresses: 142.251.209.78, 2a00:1450:4003:815::200e
+    CNAME Record: support.google.com
+    SSL: Valid SSL certificate (basic check)
+    ⚠️  Risk: MEDIUM - CNAME points to external service: support.google.com
+
+✓ mobile.google.com
+    IP Addresses: 172.217.18.107, 2a00:1450:4006:821::200b
+    CNAME Record: mobile.l.google.com
+    SSL: Valid SSL certificate (basic check)
+    ⚠️  Risk: MEDIUM - CNAME points to external service: mobile.l.google.com
+
+✓ docs.google.com
+    IP Addresses: 142.251.142.78, 2a00:1450:4003:815::200e
+    CNAME Record: docs.google.com
+    SSL: Valid SSL certificate (basic check)
+    ⚠️  Risk: MEDIUM - CNAME points to external service: docs.google.com
+
+✓ shop.google.com
+    IP Addresses: 142.251.127.92, 2a00:1450:4001:c21::5c
+    CNAME Record: shop.google.com
+    SSL: Valid SSL certificate (basic check)
+    ⚠️  Risk: MEDIUM - CNAME points to external service: shop.google.com
+
+✓ calendar.google.com
+    IP Addresses: 142.250.178.14, 2a00:1450:4006:815::200e
+    CNAME Record: calendar.google.com
+    SSL: Valid SSL certificate (basic check)
+    ⚠️  Risk: MEDIUM - CNAME points to external service: calendar.google.com
+
+✓ web.google.com
+    IP Addresses: 172.217.171.46, 2a00:1450:4006:814::200e
+    CNAME Record: www3.l.google.com
+    SSL: Valid SSL certificate (basic check)
+    ⚠️  Risk: MEDIUM - CNAME points to external service: www3.l.google.com
+
+✓ email.google.com
+    IP Addresses: 142.251.209.174, 2a00:1450:4006:822::200e
+    CNAME Record: gmail.google.com
+    SSL: Valid SSL certificate (basic check)
+    ⚠️  Risk: MEDIUM - CNAME points to external service: gmail.google.com
+
+✓ images.google.com
+    IP Addresses: 216.58.205.174, 2a00:1450:4006:818::200e
+    CNAME Record: images.l.google.com
+    SSL: Valid SSL certificate (basic check)
+    ⚠️  Risk: MEDIUM - CNAME points to external service: images.l.google.com
+
+[PROGRESS] Checked 50/123 subdomains...
+
+✓ download.google.com
+    IP Addresses: 142.251.209.100, 2a00:1450:4006:820::2004
+    CNAME Record: www2.l.google.com
+    SSL: Valid SSL certificate (basic check)
+    ⚠️  Risk: MEDIUM - CNAME points to external service: www2.l.google.com
+
+✓ dns.google.com
+    IP Addresses: 8.8.4.4, 8.8.8.8, 2001:4860:4860::8888, 2001:4860:4860::8844
+    CNAME Record: dns.google.com
+    SSL: Valid SSL certificate (basic check)
+    ⚠️  Risk: MEDIUM - CNAME points to external service: dns.google.com
+
+✓ apps.google.com
+    IP Addresses: 192.178.25.110, 2a00:1450:4003:80b::200e
+    CNAME Record: www3.l.google.com
+    SSL: Valid SSL certificate (basic check)
+    ⚠️  Risk: MEDIUM - CNAME points to external service: www3.l.google.com
+
+✓ video.google.com
+    IP Addresses: 142.251.209.174, 2a00:1450:4006:822::200e
+    CNAME Record: video.l.google.com
+    SSL: Valid SSL certificate (basic check)
+    ⚠️  Risk: MEDIUM - CNAME points to external service: video.l.google.com
+
+✓ api.google.com
+    IP Addresses: 142.251.39.100
+    CNAME Record: api.l.google.com
+    SSL: Valid SSL certificate (basic check)
+    ⚠️  Risk: MEDIUM - CNAME points to external service: api.l.google.com
+
+✓ help.google.com
+    IP Addresses: 142.251.208.142, 2a00:1450:4003:815::200e
+    CNAME Record: www3.l.google.com
+    SSL: Valid SSL certificate (basic check)
+    ⚠️  Risk: MEDIUM - CNAME points to external service: www3.l.google.com
+
+✓ sandbox.google.com
+    IP Addresses: 142.251.127.81, 2a00:1450:400c:c04::451
+    CNAME Record: sandbox.google.com
+    SSL: Valid SSL certificate (basic check)
+    ⚠️  Risk: MEDIUM - CNAME points to external service: sandbox.google.com
+
+✓ security.google.com
+    IP Addresses: 192.178.25.110, 2a00:1450:4006:818::200e
+    CNAME Record: www3.l.google.com
+    SSL: Valid SSL certificate (basic check)
+    ⚠️  Risk: MEDIUM - CNAME points to external service: www3.l.google.com
+
+✓ vpn.google.com
+    IP Addresses: 64.9.224.70, 64.9.224.69, 64.9.224.68
+    CNAME Record: vpn.google.com
+    SSL: No SSL certificate
+    ⚠️  Risk: MEDIUM - CNAME points to external service: vpn.google.com
+
+✓ pki.google.com
+    IP Addresses: 142.251.209.78, 2a00:1450:4003:815::200e
+    CNAME Record: www3.l.google.com
+    SSL: Valid SSL certificate (basic check)
+    ⚠️  Risk: MEDIUM - CNAME points to external service: www3.l.google.com
+
+✓ cloud.google.com
+    IP Addresses: 216.58.205.174, 2a00:1450:4003:816::200e
+    CNAME Record: cloud.google.com
+    SSL: Valid SSL certificate (basic check)
+    ⚠️  Risk: MEDIUM - CNAME points to external service: cloud.google.com
+
+[PROGRESS] Checked 100/123 subdomains...
+
+✓ health.google.com
+    IP Addresses: 142.250.178.14, 2a00:1450:4006:822::200e
+    CNAME Record: health.google.com
+    SSL: Valid SSL certificate (basic check)
+    ⚠️  Risk: MEDIUM - CNAME points to external service: health.google.com
+
+✓ finance.google.com
+    IP Addresses: 142.250.74.78, 2a00:1450:4006:819::200e
+    CNAME Record: www3.l.google.com
+    SSL: Valid SSL certificate (basic check)
+    ⚠️  Risk: MEDIUM - CNAME points to external service: www3.l.google.com
+
+✓ careers.google.com
+    IP Addresses: 142.251.140.238, 2a00:1450:4006:817::200e
+    CNAME Record: careers.google.com
+    SSL: Valid SSL certificate (basic check)
+    ⚠️  Risk: MEDIUM - CNAME points to external service: careers.google.com
+
+✓ jobs.google.com
+    IP Addresses: 142.251.208.238, 2a00:1450:4006:816::200e
+    CNAME Record: www3.l.google.com
+    SSL: Valid SSL certificate (basic check)
+    ⚠️  Risk: MEDIUM - CNAME points to external service: www3.l.google.com
+
+======================================================================
+📊 ENUMERATION SUMMARY:
+----------------------------------------------------------------------
+  Total subdomains checked: 123
+  Active subdomains found: 35
+
+🎯 HIGH RISK SUBDOMAINS (Check for takeover):
+  No high-risk subdomains detected
+
+📋 ALL ACTIVE SUBDOMAINS:
+  1. 🟡 www.google.com
+  2. 🟡 mail.google.com
+  3. 🟡 smtp.google.com
+  4. 🟡 ns1.google.com
+  5. 🟡 ns2.google.com
+  6. 🟡 m.google.com
+  7. 🟡 ns.google.com
+  8. 🟡 blog.google.com
+  9. 🟡 admin.google.com
+  10. 🟡 news.google.com
+  11. 🟡 vpn.google.com
+  12. 🟡 ns3.google.com
+  13. 🟡 support.google.com
+  14. 🟡 mobile.google.com
+  15. 🟡 docs.google.com
+  16. 🟡 shop.google.com
+  17. 🟡 calendar.google.com
+  18. 🟡 web.google.com
+  19. 🟡 email.google.com
+  20. 🟡 images.google.com
+  21. 🟡 download.google.com
+  22. 🟡 dns.google.com
+  23. 🟡 apps.google.com
+  24. 🟡 video.google.com
+  25. 🟡 api.google.com
+  26. 🟡 help.google.com
+  27. 🟡 sandbox.google.com
+  28. 🟡 security.google.com
+  29. 🟡 vpn.google.com
+  30. 🟡 pki.google.com
+  31. 🟡 cloud.google.com
+  32. 🟡 health.google.com
+  33. 🟡 finance.google.com
+  34. 🟡 careers.google.com
+  35. 🟡 jobs.google.com
+
+======================================================================
+🔍 OSINT & RECOMMENDATIONS:
+----------------------------------------------------------------------
+  1. For HIGH risk subdomains, verify if the external service still exists
+  2. Remove DNS records pointing to services you no longer use
+  3. Use tools like 'dig', 'nslookup' for deeper investigation
+  4. Check Certificate Transparency logs (crt.sh) for more subdomains
+  5. Consider using Sublist3r, Amass, or Subfinder for comprehensive scans
+
+📚 USEFUL RESOURCES:
+  - SecurityTrails: https://securitytrails.com/domain/google.com
+  - crt.sh: https://crt.sh/?q=%.google.com
+  - DNSDumpster: https://dnsdumpster.com/domain/google.com
+
+⚠️  LEGAL NOTE:
+  Only scan domains you own or have explicit permission to test.
+  Unauthorized scanning may violate laws and terms of service.

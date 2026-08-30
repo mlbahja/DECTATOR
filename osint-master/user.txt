@@ -1,0 +1,15 @@
+Checking username: torvalds
+==================================================
+
+Searching platforms...
+
+[FOUND] GitHub: https://github.com/torvalds
+[FOUND] Twitter: https://twitter.com/torvalds
+[FOUND] Instagram: https://instagram.com/torvalds
+[FOUND] Reddit: https://reddit.com/user/torvalds
+[FOUND] LinkedIn: https://linkedin.com/in/torvalds
+[FOUND] GitLab: https://gitlab.com/torvalds
+[FOUND] Pinterest: https://pinterest.com/torvalds
+
+==================================================
+Total profiles found: 7/8

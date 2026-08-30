@@ -1,0 +1,69 @@
+Main Domain: zone01oujda.ma
+======================================================================
+
+[INFO] Enumerating subdomains...
+[INFO] This may take a few moments
+
+🔍 CHECKING SUBDOMAINS:
+----------------------------------------------------------------------
+
+✓ www.zone01oujda.ma
+    IP Addresses: 104.21.49.97, 172.67.161.154, 2606:4700:3033::ac43:a19a, 2606:4700:3034::6815:3161
+    CNAME Record: www.zone01oujda.ma
+    SSL: Valid SSL certificate (basic check)
+    ⚠️  Risk: MEDIUM - CNAME points to external service: www.zone01oujda.ma
+
+✓ mail.zone01oujda.ma
+    IP Addresses: 104.21.49.97, 172.67.161.154, 2606:4700:3034::6815:3161, 2606:4700:3033::ac43:a19a
+    CNAME Record: mail.zone01oujda.ma
+    SSL: Valid SSL certificate (basic check)
+    ⚠️  Risk: MEDIUM - CNAME points to external service: mail.zone01oujda.ma
+
+✓ admin.zone01oujda.ma
+    IP Addresses: 104.21.49.97, 172.67.161.154, 2606:4700:3033::ac43:a19a, 2606:4700:3034::6815:3161
+    CNAME Record: admin.zone01oujda.ma
+    SSL: Valid SSL certificate (basic check)
+    ⚠️  Risk: MEDIUM - CNAME points to external service: admin.zone01oujda.ma
+
+[PROGRESS] Checked 50/123 subdomains...
+
+[PROGRESS] Checked 100/123 subdomains...
+
+✓ status.zone01oujda.ma
+    IP Addresses: 167.235.220.62
+    CNAME Record: statuspage.betteruptime.com
+    SSL: Valid SSL certificate (basic check)
+    ⚠️  Risk: MEDIUM - CNAME points to external service: statuspage.betteruptime.com
+
+======================================================================
+📊 ENUMERATION SUMMARY:
+----------------------------------------------------------------------
+  Total subdomains checked: 123
+  Active subdomains found: 4
+
+🎯 HIGH RISK SUBDOMAINS (Check for takeover):
+  No high-risk subdomains detected
+
+📋 ALL ACTIVE SUBDOMAINS:
+  1. 🟡 www.zone01oujda.ma
+  2. 🟡 mail.zone01oujda.ma
+  3. 🟡 admin.zone01oujda.ma
+  4. 🟡 status.zone01oujda.ma
+
+======================================================================
+🔍 OSINT & RECOMMENDATIONS:
+----------------------------------------------------------------------
+  1. For HIGH risk subdomains, verify if the external service still exists
+  2. Remove DNS records pointing to services you no longer use
+  3. Use tools like 'dig', 'nslookup' for deeper investigation
+  4. Check Certificate Transparency logs (crt.sh) for more subdomains
+  5. Consider using Sublist3r, Amass, or Subfinder for comprehensive scans
+
+📚 USEFUL RESOURCES:
+  - SecurityTrails: https://securitytrails.com/domain/zone01oujda.ma
+  - crt.sh: https://crt.sh/?q=%.zone01oujda.ma
+  - DNSDumpster: https://dnsdumpster.com/domain/zone01oujda.ma
+
+⚠️  LEGAL NOTE:
+  Only scan domains you own or have explicit permission to test.
+  Unauthorized scanning may violate laws and terms of service.
